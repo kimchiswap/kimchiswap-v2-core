@@ -1,7 +1,7 @@
 {
   "name": "@kimchiswap/v2-core",
   "description": "🎛 Core contracts for the KswapV2 protocol",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://kimchiswap.io",
   "repository": {
     "type": "git",
@@ -25,7 +25,7 @@
     "@types/chai": "^4.2.6",
     "@types/mocha": "^5.2.7",
     "chai": "^4.2.0",
-    "ethereum-waffle": "^2.4.1",
+    "ethereum-waffle": "^2.5.1",
     "ethereumjs-util": "^6.2.0",
     "mocha": "^6.2.2",
     "prettier": "^1.19.1",
